@@ -1,0 +1,78 @@
+.profile-container {
+    padding: 20px;
+  }
+  
+  .profile-title {
+    text-align: center;
+  }
+  
+  .card-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    
+    
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-title {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .card-subtitle {
+    font-size: 1em;
+    color: #777;
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    margin-bottom: 20px;
+  }
+  
+  .review-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .delete-icon {
+    cursor: pointer;
+    color: red;
+    float: right;
+  }
+  
+  .update-form {
+    margin-top: 20px;
+    max-width: 100%;
+  }
+  
+  .update-button,
+  .edit-button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .edit-button {
+    border-radius: 10px;
+  }
+  
+  /* Additional styles for comment input */
+  .update-form input[name="comment"] {
+    font-size: 16px; /* Adjust font size */
+    height: 80px; /* Adjust height */
+    border: 1cm;
+  }
+  

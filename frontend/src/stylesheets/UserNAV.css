@@ -1,0 +1,11 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: auto; /* Reset the left positioning */
+    width: 10%; /* Ensure full width */
+    background-color: rgba(240, 248, 255, 0);
+    border: none;
+    border-radius: 50px ;
+  }
+  
